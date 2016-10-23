@@ -6,7 +6,7 @@ public class TestClass {
 	 */
 	public static void main(String[] args) {
 		System.out.println("change");
-		System.out.println("stage");
+		System.out.println("noch ein");
 
 	}
 
